@@ -1,17 +1,10 @@
 ## Welcome to PRPL_code
 
-This is the home of the Pathology Residents Programming Laboratory, a collaborrative environment for pathologists focused on clinical informatics and data science.
+This is the home of the Pathology Residents Programming Laboratory, a collaborrative environment for pathologists focused on clinical informatics and data science
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Below is a list of current projects with links to their respective repositiories on GitHub
 
 - Bulleted
 - List
@@ -19,16 +12,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PRPLcode/PRPLcode/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

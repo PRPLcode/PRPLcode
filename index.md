@@ -6,11 +6,9 @@ This is the home of the Pathology Residents Programming Laboratory, a collaborra
 
 Below is a list of current projects with links to their respective repositiories on GitHub
 
-- Bulleted
+- Bulleted [link](link)
 - List
 
-1. Numbered
-2. List
 
 
 ```
